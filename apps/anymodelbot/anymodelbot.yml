@@ -1,0 +1,12 @@
+name: AnyModelBot
+description: 'Open-source desktop AI assistant and out-of-the-box DeepSeek Super Agent, using 70+ models.'
+website: 'https://anymodel.bot/en/'
+repository: 'https://github.com/modelflare-ai/AnyModelBot'
+keywords:
+  - ai
+  - assistant
+  - llm
+  - agent
+  - deepseek
+category: Productivity
+license: MIT
